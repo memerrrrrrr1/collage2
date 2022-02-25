@@ -1,0 +1,40 @@
+body{
+    background-color: olive;
+}
+
+#divfooter{
+    bottom:0;
+    position: fixed;
+    background-color:lightskyblue ;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    line-height: 2.5;
+}
+h1{
+    font-family:'Times New Roman';
+    
+}
+h4{
+    font-weight: bolder;
+}
+#camera{
+    height: 350px;
+    width: 400px;
+    border-color: lightslategray;
+    border-width: 10px;
+    border-style: groove;
+}
+img{
+    width: 17%;
+    border-radius: 75px;
+    margin: 10px;
+    
+}
+.column{
+    display: inline;
+    
+}
+img:hover{
+    border:7px solid gray ;
+}
